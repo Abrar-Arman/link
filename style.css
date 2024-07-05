@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.home ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.home ul li{
+    padding: 9px;
+}
+ 
+   
+    
+
+.profile,.restrunt{
+
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+    
+    
+}
+
+a{
+  
+    display: inline-block;
+    padding: 5px;
+}
+
+
+.link{
+    display: inline-block;
+    padding-top: 8px;
+   
+}
+
+
+ 
+i{
+    padding: 10px;
+    color: black;
+}
+ul{
+    padding: 20px;
+}
